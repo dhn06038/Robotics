@@ -1,2 +1,2 @@
-# Robotics
+# Robotics using urdf, Mujoco
  
